@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nelia95/goit-react-hw-01-components/static/css/main.9f0edddb.css",
+    "main.js": "/Nelia95/goit-react-hw-01-components/static/js/main.5b4f9d7f.js",
+    "index.html": "/Nelia95/goit-react-hw-01-components/index.html",
+    "main.9f0edddb.css.map": "/Nelia95/goit-react-hw-01-components/static/css/main.9f0edddb.css.map",
+    "main.5b4f9d7f.js.map": "/Nelia95/goit-react-hw-01-components/static/js/main.5b4f9d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f0edddb.css",
+    "static/js/main.5b4f9d7f.js"
+  ]
+}
